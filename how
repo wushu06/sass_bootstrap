@@ -1,0 +1,15 @@
+1- install node
+2- npm install -g bower
+3- bower install bootstrap-sass --save
+4- create files css and scss and watch
+5- import bootstrap and bootstrap-compass
+6- getbootrap basic template
+7- install live server -> npm install -g live-server
+8- live-server
+ 7-2- if doesnt work it can be installed manually git clone https://github.com/tapio/live-server
+                                                  cd live-server
+                                                  npm install -g
+ 8-2- go back to right path and run: live-server
+9- copy _variables into customvariable where you can edit
+10- bower install fontawesome --save
+11- import in app.scss
